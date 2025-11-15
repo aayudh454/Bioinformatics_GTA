@@ -2,6 +2,11 @@
 
 This README describes the full computational workflow for analyzing **pre- and post-treatment ctDNA samples** from patient **CTC360** in project **PRJNA714799**, focusing on **KRAS mutations on chromosome 12**.
 
+## Variables
+PATIENT="CTC360"
+PRE="SRR13973704"
+POST="SRR13973878"
+
 The workflow is optimized for **Google Colab** but is portable to any Linux environment.
 
 ---
